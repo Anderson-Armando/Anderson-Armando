@@ -1,6 +1,12 @@
 ### Olá, Eu sou o Anderson Armando!
-
-![Anderson-Armando GitHub stats](https://github-readme-stats.vercel.app/api?username=Anderson-Armando&show_icons=true&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Anderson-Armando&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Armando&layout=compact&theme=dark" />
+</a>
+<br>
+<br>
 
 <div style="display: inline_block">
   <img align="center" alt="Anderson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,6 +17,7 @@
   <img align="center" alt="Anderson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Anderson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
 <br>
 <div>
   <a href="https://instagram.com/_andersonarmando_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -23,3 +30,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anderson-Armando/Anderson-Armando/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anderson-Armando/Anderson-Armando/output/github-contribution-grid-snake.svg">
 </picture>
+
