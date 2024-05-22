@@ -1,9 +1,9 @@
 ### Olá, Eu sou o Anderson Armando!
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Anderson-Armando&show_icons=true&theme=dark&hide_border=true&border_radius=20" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Anderson-Armando&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=20" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Armando&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=20px&border_radius=20" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Armando&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&card_width=20px&border_radius=20" />
 </a>
 <br>
 <br>
